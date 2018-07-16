@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">台中景點</string>
+    <string name="action_refresh">刷新</string>
+    <string name="empty_view_text">查無資料</string>
+    <string name="refresh_success_text">刷新完成</string>
+    <string name="refresh_fail_text">刷新失敗</string>
+</resources>
