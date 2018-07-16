@@ -5,3 +5,4 @@ RecyclerView to show data</br>
 adding pull to refresh</br>
 having some bugs waiting to fix</br>
 launcher icon using android asset studio to design</br>
+no beautiful ui/ux
